@@ -1,6 +1,5 @@
 A production‑grade, multi‑agent pipeline built with the **Google Agent Development Kit (ADK)**. It reads epics, loads the newest SDD attachment, infers impacted platforms from **metadata** and **SDD content**, and persists a combined result. Includes a mock runner so you can execute end‑to‑end without wiring external systems, plus an optional loop to iterate linked epics.
 
-> If you prefer a project name: **Flexgate** is a clean option. Replace the title accordingly.
 
 ---
 
